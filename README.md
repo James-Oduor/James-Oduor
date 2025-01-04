@@ -1,47 +1,41 @@
-<br clear="both">
+Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is James Oduor
+===================================================================================================================================
 
-<h1 align="left">Hey It`s James . you Are welcome</h1>
+Web Developer
+-------------
 
-###
+Hi, I’m James, a 15-year-old with a passion for creativity, sports, and problem-solving. I enjoy expressing myself through music, playing the flute, and staying active on the basketball court. I'm also dedicated to personal growth through learning and exploring the world of coding. Whether it's performing, competing, or building something new, I’m always striving to improve and make the most of my talents and interests. I aim to grow in every aspect of my life, using my passions to inspire others and contribute to something bigger. Whether it’s making music that moves people, coding innovative solutions, or excelling in sports, I’m committed to becoming the best version of myself.
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" height="46" alt="javascript logo"  />
-  <img width="27" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="46" alt="react logo"  />
-  <img width="27" />
-  <img src="https://skillicons.dev/icons?i=ai" height="46" alt="adobeillustrator logo"  />
-  <img width="27" />
-  <img src="https://skillicons.dev/icons?i=github" height="46" alt="github logo"  />
-  <img width="27" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="46" alt="html5 logo"  />
-  <img width="27" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="46" alt="css3 logo"  />
-  <img width="27" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/chrome/chrome-original.svg" height="46" alt="chrome logo"  />
-  <img width="27" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" height="46" alt="google logo"  />
-</div>
+* 🌍  I'm based in Nairobi,Kenya
+* ✉️  You can contact me at [oduorjames@gmail.com](mailto:oduorjames@gmail.com)
+* 🚀  I'm currently working on [Different projects](http://github.com/James-Oduor?tab=repositories)
+* 🧠  I'm learning react
+* 🤝  I'm open to collaborating on sports and different projects
 
-###
+### Skills
 
-<div align="left">
-</div>
 
-###
+<p align="left">
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a><a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/visualstudiocode.svg" width="36" height="36" alt="VS Code" /></a><a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="36" height="36" alt="CSS3" /></a><a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="36" height="36" alt="React" /></a><a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /></a>
+</p>
 
-<div align="left">
-</div>
 
-###
+### Socials
 
-<div align="center">
-  <img height="200" src="https://i.imgflip.com/65efzo.gif"  />
-</div>
+<p align="left"> <a href="https://www.github.com/James-Oduor" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /> </picture> </a></p>
 
-###
+### Badges
 
-<div align="center">
-  <img src="https://github-read-medium-git-main.pahlevikun.vercel.app/latest?limit=4" alt="Layout with last medium posts"  />
-</div>
+<b>My GitHub Stats</b>
 
-###
+<a href="http://www.github.com/James-Oduor"><img src="https://github-readme-stats.vercel.app/api?username=James-Oduor&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="James-Oduor's GitHub stats" /></a>
+
+<a href="http://www.github.com/James-Oduor"><img src="https://github-readme-streak-stats.herokuapp.com/?user=James-Oduor&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
+
+<a href="http://www.github.com/James-Oduor"><img src="https://github-readme-activity-graph.cyclic.app/graph?username=James-Oduor&bg_color=1c1917&color=ffffff&line=0891b2&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
+
+<a href="https://github.com/James-Oduor" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=James-Oduor&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+
+<b>Top Repositories</b>
+
+<div width="100%" align="center"></div><br /><br /><br /><br /><br /><br /><br />
