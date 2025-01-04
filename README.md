@@ -1,12 +1,6 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is James Oduor
-===================================================================================================================================
-
-<p align="center"><img src="https://raw.githubusercontent.com/rossjrw/rossjrw/play/games/current/board.3857.svg"></p>
-Web Developer
+Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is James Oduor<img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width="50"> 
 -------------
-<body display = "flex">
-  
-</body>
+<img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
 Hi, I’m James, a 15-year-old with a passion for creativity, sports, and problem-solving. I enjoy expressing myself through music, playing the flute, and staying active on the basketball court. I'm also dedicated to personal growth through learning and exploring the world of coding. Whether it's performing, competing, or building something new, I’m always striving to improve and make the most of my talents and interests. I aim to grow in every aspect of my life, using my passions to inspire others and contribute to something bigger. Whether it’s making music that moves people, coding innovative solutions, or excelling in sports, I’m committed to becoming the best version of myself.
 
 * 🌍  I'm based in Nairobi,Kenya
@@ -16,13 +10,11 @@ Hi, I’m James, a 15-year-old with a passion for creativity, sports, and proble
 <a href="https://www.github.com/James-Oduor" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/James-Oduor?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
 
-### Skills
-
+### Skills<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 
 <p align="left">
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a><a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/visualstudiocode.svg" width="36" height="36" alt="VS Code" /></a><a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="36" height="36" alt="CSS3" /></a><a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="36" height="36" alt="React" /></a><a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /></a>
 </p>
-
 
 ### Socials
 
