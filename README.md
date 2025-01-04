@@ -3,7 +3,9 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 
 Web Developer
 -------------
-
+<body display = "flex">
+  
+</body>
 Hi, I’m James, a 15-year-old with a passion for creativity, sports, and problem-solving. I enjoy expressing myself through music, playing the flute, and staying active on the basketball court. I'm also dedicated to personal growth through learning and exploring the world of coding. Whether it's performing, competing, or building something new, I’m always striving to improve and make the most of my talents and interests. I aim to grow in every aspect of my life, using my passions to inspire others and contribute to something bigger. Whether it’s making music that moves people, coding innovative solutions, or excelling in sports, I’m committed to becoming the best version of myself.
 
 * 🌍  I'm based in Nairobi,Kenya
@@ -23,7 +25,7 @@ src="https://img.shields.io/github/followers/James-Oduor?logo=github&style=for-t
 
 ### Socials
 
-<p align="left" display = "flex"> <a href="https://www.github.com/James-Oduor" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /> </picture> </a></p>
+<p align="left" > <a href="https://www.github.com/James-Oduor" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /> </picture> </a></p>
 
 ### Badges
 
