@@ -8,9 +8,7 @@ Hi, I’m James, a 15-year-old with a passion for creativity, sports, and proble
 
 * 🌍  I'm based in Nairobi,Kenya
 * ✉️  You can contact me at [oduorjames@gmail.com](mailto:oduorjames@gmail.com)
-* 🚀  I'm currently working on [Different projects](http://github.com/James-Oduor?tab=repositories)
-* 🧠  I'm learning react
-* 🤝  I'm open to collaborating on sports and different projects
+
 
 <a href="https://www.github.com/James-Oduor" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/James-Oduor?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
