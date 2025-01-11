@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Hi, I’m James, a 15-year-old with a passion for creativity, sports, and problem-solving. I enjoy expressing myself through music, playing the flute, and staying active on the basketball court. I'm also dedicated to personal growth through learning and exploring the world of coding. Whether it's performing, competing, or building something new, I’m always striving to improve and make the most of my talents and interests. I aim to grow in every aspect of my life, using my passions to inspire others and contribute to something bigger. Whether it’s making music that moves people, coding innovative solutions, or excelling in sports, I’m committed to becoming the best version of myself.
 
 * 🌍  I'm based in Nairobi,Kenya
-* ✉️  You can contact me at [oduorjames@gmail.com](mailto:oduorjames@gmail.com)
+* ✉️  You can send me message at [oduorjames@gmail.com](mailto:oduorjames@gmail.com)
 
 
 <a href="https://www.github.com/James-Oduor" target="_blank" rel="noreferrer"><img
